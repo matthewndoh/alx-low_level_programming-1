@@ -6,3 +6,4 @@
 5-printf.c is for proper grammer
 6-size.c is for sizes
 100-intel is for intel syntax
+101-quote.c is for standard error
