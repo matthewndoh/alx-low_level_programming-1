@@ -10,3 +10,4 @@
 9-print_comb.c prints all possible combinations
 100-print_comb3.c prints different combinations
 101-print_comb4.c prints combinations of three digits
+102-print_comb5.c prints combination of two 2_digit numbers
