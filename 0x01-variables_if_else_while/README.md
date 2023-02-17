@@ -7,3 +7,4 @@
 6-print_numberz.c prints base 10
 7-print_tebahpla.c prints in reverse
 8-print_base16.c is for base 16
+9-print_comb.c prints all possible combinations
