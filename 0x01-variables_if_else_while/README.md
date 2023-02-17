@@ -9,3 +9,4 @@
 8-print_base16.c is for base 16
 9-print_comb.c prints all possible combinations
 100-print_comb3.c prints different combinations
+101-print_comb4.c prints combinations of three digits
