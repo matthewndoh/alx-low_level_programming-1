@@ -10,3 +10,4 @@
 9-fizz_buzz.c is for fizzbuzz
 10-print_triangle.c prints a traingle
 100-prime_factor.c is for prime factors
+101-print_number.c prints an integer
