@@ -5,3 +5,4 @@
 4-print_most_numbers.c prints most numbers
 5-more_numbers.c PRINTS 10X NUMBERS
 6-print_line.c draws a straight line
+7-print_diagonal.c draws diagonal line
