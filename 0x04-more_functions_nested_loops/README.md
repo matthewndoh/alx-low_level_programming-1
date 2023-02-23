@@ -9,3 +9,4 @@
 8-print_square.c draws a square
 9-fizz_buzz.c is for fizzbuzz
 10-print_triangle.c prints a traingle
+100-prime_factor.c is for prime factors
