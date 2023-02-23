@@ -6,3 +6,4 @@
 5-more_numbers.c PRINTS 10X NUMBERS
 6-print_line.c draws a straight line
 7-print_diagonal.c draws diagonal line
+8-print_square.c draws a square
