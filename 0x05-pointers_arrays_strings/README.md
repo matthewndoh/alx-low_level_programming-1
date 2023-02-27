@@ -4,3 +4,4 @@
 3-puts.c puts a string
 5-rev_string.c is for engineer
 6-puts2.c prints first character
+7-puts_half.c is for half of string
