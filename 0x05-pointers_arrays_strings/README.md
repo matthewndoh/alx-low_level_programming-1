@@ -6,3 +6,4 @@
 6-puts2.c prints first character
 7-puts_half.c is for half of string
 8-print_array.c prints elements of array
+9-strcpy.c is for pointed buffer
