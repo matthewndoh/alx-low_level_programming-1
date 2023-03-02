@@ -8,3 +8,4 @@
 7-leet.c encodes a string
 100-rot13.c is for rot13
 101-print_number.c prints an integer
+102-magic.c is for magic
