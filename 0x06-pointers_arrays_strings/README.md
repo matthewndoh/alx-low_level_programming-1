@@ -5,3 +5,4 @@
 4-rev_array.c reverses content of an array
 5-string_toupper.c from lower to upper
 6-cap_string.c capitalizes all words
+7-leet.c encodes a string
