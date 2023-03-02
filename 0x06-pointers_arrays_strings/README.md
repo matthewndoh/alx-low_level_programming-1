@@ -6,3 +6,4 @@
 5-string_toupper.c from lower to upper
 6-cap_string.c capitalizes all words
 7-leet.c encodes a string
+100-rot13.c is for rot13
