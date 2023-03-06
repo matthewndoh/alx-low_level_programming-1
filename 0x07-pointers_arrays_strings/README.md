@@ -2,3 +2,4 @@
 1-memcpy.c copies mmory
 2-strchr.c locates acharacter
 3-strspn.c is for lenght of prefix
+4-strpbrk.c searches a string
