@@ -6,3 +6,4 @@
 5-strstr.c locates a substring
 7-print_chessboard.c prints chessboard
 8-print_diagsums.c is for diagonal of square matrix
+100-set_string.c is for double pointer
